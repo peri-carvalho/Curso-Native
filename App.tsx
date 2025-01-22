@@ -4,7 +4,7 @@ const App = () => {
   return (
     <SafeAreaView>
       <View>
-        <Text>ProjectNative</Text>
+        <Text>ProjectNative!</Text>
       </View>
     </SafeAreaView>
   );
